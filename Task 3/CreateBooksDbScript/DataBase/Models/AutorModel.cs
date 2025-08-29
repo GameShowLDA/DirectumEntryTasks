@@ -5,7 +5,7 @@ namespace CreateBooksDbScript.DB.Models
   /// <summary>
   /// Модель автора книги.
   /// </summary>
-  internal class AuthorModel
+  internal class AutorModel
   {
     /// <summary>
     /// Уникальный идентификатор автора.  

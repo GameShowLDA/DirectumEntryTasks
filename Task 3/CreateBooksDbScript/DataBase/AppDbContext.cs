@@ -18,7 +18,7 @@ namespace CreateBooksDbScript.DataBase
     /// <summary>
     /// Таблица авторов.
     /// </summary>
-    public DbSet<AuthorModel> Authors => Set<AuthorModel>();
+    public DbSet<AutorModel> Authors => Set<AutorModel>();
 
     /// <summary>
     /// Таблица издательств.
